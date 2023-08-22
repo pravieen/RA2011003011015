@@ -1,20 +1,11 @@
-# REACT TRAINS APP
+RA2011003011015
 
-A web app to display timing of trains by station based on the following API for the Finnish trains network.
+# REACT TRAINS Schedules
 
-See the deployed app here: https://react-trains-app.firebaseapp.com
-
-
-based on this API: 
-https://rata.digitraffic.fi/api/v1/doc/index.html
-
-
+A web to display timing of trains by station based on the following API for the Finnish trains network.
 
 This project was bootstrapped with Create React App
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
@@ -24,14 +15,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/pravieen/RA2011003011015/assets/100255410/8a48d31c-9417-4847-b76f-3f277be4b5a5)
 
+![image](https://github.com/pravieen/RA2011003011015/assets/100255410/ceb8fa05-a9c0-43d8-b796-962350defee8)
 
